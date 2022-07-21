@@ -1,7 +1,6 @@
-<!--
 ## Want Followers or Likes ?
 - Join Instagram [@uncle_gita](https://www.instagram.com/uncle_gita)
---!>
+
 <h1 align="center">
   TikTok AIO 🪐
 </h1>
