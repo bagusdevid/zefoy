@@ -1,7 +1,7 @@
 <!--
 ## Want Followers or Likes ?
 - Join Instagram [@uncle_gita](https://www.instagram.com/uncle_gita)
-
+--!>
 <h1 align="center">
   TikTok AIO 🪐
 </h1>
@@ -14,7 +14,7 @@ Love ❌ code ✅
 </h2>
 
 ---
---!>
+
 ## :fire: Features
 
 ✔ Bot TikTok Followers, Likes, Views, Shares
