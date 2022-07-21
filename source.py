@@ -120,7 +120,7 @@ def main():
         while True:
             time_elapsed = strftime("%H:%M:%S", gmtime(time() - start))
             system(
-                f"title ZEFOY BOT V7 Github: @xtekky ^| Views: {beautify(Views)} ^| Hearts: {beautify(Hearts)} ^| Shares: {beautify(Shares)} ^| Elapsed Time: {time_elapsed}"
+                f"title TIKTOK BOT V1 Github: @bagusdevid ^| Views: {beautify(Views)} ^| Hearts: {beautify(Hearts)} ^| Shares: {beautify(Shares)} ^| Elapsed Time: {time_elapsed}"
             )
 
     # Followers
@@ -1168,7 +1168,7 @@ if __name__ == "__main__":
     print(" ")
     print(" ")
     Write.Print(
-        "                 * Thanks for using our Tool, Full credits to > Tekky#9999 | t.me/xtekky | .gg/onlp *\n",
+        "                 * Thanks for using our Tool, Full credits to > BagusDevID | st.bagusdev.id/BagusDev *\n",
         Colors.red_to_white,
         interval=0.01,
     )
