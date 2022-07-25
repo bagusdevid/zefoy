@@ -27,6 +27,7 @@ Love ❌ code ✅
 
 ```sh-session
 > Download python and install all requirements
+> run baru.bat
 ```
 
 ## 🎉・Upcoming/enhancements
